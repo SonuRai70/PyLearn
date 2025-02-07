@@ -1,4 +1,3 @@
-# PyLearn
 # Python Learning Journey
 
 ## Introduction
