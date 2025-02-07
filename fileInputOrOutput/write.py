@@ -1,0 +1,5 @@
+f = open("sonu.txt","w")
+f.write("Hello welcome to my file\nHere you can check my details.")
+f=open("sonu.txt","a")
+f.write("\nNext i will learn Javascript and\nthen i will do web developement")
+f.close()

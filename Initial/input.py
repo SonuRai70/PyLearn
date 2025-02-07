@@ -1,0 +1,8 @@
+name = input("enter your name:")
+print("your name is:",name)
+call=str(input("enter we call you:"))
+age=int(input("enter your age:"))
+salary=float(input("enter your salary"))
+print("your name is:",call)
+print("your age is:",age)
+print("your salary is:",salary)

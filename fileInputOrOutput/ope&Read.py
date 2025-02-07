@@ -1,0 +1,5 @@
+f=open("C:\Python\sonu.txt")
+data=f.read()
+print(data)
+print(type(data))
+f.close()

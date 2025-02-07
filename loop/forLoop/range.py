@@ -1,0 +1,10 @@
+print('Printing the range of number from 1 to 100')
+
+for i in range(20): #range(stop)
+    print(i)
+print("\n")
+for i in range(2,20,2): #range(start,stop,step)
+    print(i)
+print("\n")
+for i in range (5,20):  #range(start,stop)
+    print(i)

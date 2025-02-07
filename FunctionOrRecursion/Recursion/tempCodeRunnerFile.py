@@ -1,0 +1,1 @@
+m = input(int("input the number to which you want the power of that number : "))
