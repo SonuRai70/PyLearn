@@ -1,7 +1,7 @@
 # Python Learning Journey
 
 ## Introduction
-Welcome to my Python learning repository! Here, you'll find my progress, projects, and notes as I embark on the journey to become proficient in Python programming.
+Welcome to my Python learning repository! Here, you'll find my progress, and notes as I embark on the journey to Python programming.
 
 ## Why Python?
 Python is a versatile and beginner-friendly programming language known for its readability and ease of use. It's widely used in various fields such as web development, data analysis, artificial intelligence, and more. I chose Python because of its vast community support and the extensive range of libraries and frameworks available.
@@ -21,5 +21,5 @@ Python is a versatile and beginner-friendly programming language known for its r
 ## Contact
 Feel free to reach out if you have any questions or suggestions!
 - Email: imrealsonu@gmail.com
-- GitHub: [https://github.com/SonuRai70]
+- GitHub: https://github.com/SonuRai70
 
