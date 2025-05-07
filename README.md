@@ -20,6 +20,7 @@ Python is a versatile and beginner-friendly programming language known for its r
 
 ## Contact
 Feel free to reach out if you have any questions or suggestions!
-- Email: imrealsonu@gmail.com
-- GitHub: https://github.com/SonuRai70
+- **Email:** imrealsonu@gmail.com
+- **GitHub Profile:** https://github.com/SonuRai70
+- **LinkedIn:** www.linkedin.com/in/sonu-kumar-415484292
 
